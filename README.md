@@ -1,16 +1,20 @@
-### Hi there 👋
+### 📇 D Pham
 
-<!--
-**dphm/dphm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🗣 Pronouns
 
-Here are some ideas to get you started:
+they/them/their
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌎 Location
+
+Ottawa, Canada 🇨🇦—*unceded Anishinaabe territory*
+
+- Eastern Standard Time: UTC-5 (November to March)
+- Eastern Daylight Time: UTC-4 (March to November)
+
+#### 💖 Interests:
+
+- Equity for underrepresented minorities in tech 🧑🏻‍💻🧑🏼‍💻🧑🏽‍💻🧑🏾‍💻🧑🏿‍💻
+- Product development with positive impact 🛠💞
+- Learning and personal development 📚🌱
+- Food and food culture 🍌🌽🧄🥯🧆🌮🥟
+- Snail mail and stationery 🐌💌🖋
