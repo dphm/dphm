@@ -6,7 +6,7 @@ they/them/their
 
 #### 🌎 Location
 
-Ottawa, Canada 🇨🇦—*unceded Anishinaabe territory*
+Ottawa, Canada 🇨🇦—*unceded Algonquin Anishinaabe territory*
 
 - Eastern Standard Time: UTC-5 (November to March)
 - Eastern Daylight Time: UTC-4 (March to November)
