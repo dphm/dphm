@@ -1,4 +1,4 @@
-### 📇 D Pham
+### 📇 Delta Pham
 
 #### 🗣 Pronouns
 
