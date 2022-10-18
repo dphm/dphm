@@ -1,6 +1,6 @@
-### 📇 Delta Pham
+### 📇 [Delta Phạm](https://dpham.info/name)
 
-#### 🗣 Pronouns
+#### 🗣 [Pronouns](https://dpham.info/pronouns)
 
 they/them/their
 
